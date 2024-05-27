@@ -1,1 +1,1 @@
-This is a Project by Odin and Currently not sure what it is supposed to but if you like it hell yeah :) 
+This is the First and Last Initial Release of this Project just for the Odin Obligations, do not expect it to have multiple commints or a detailed structure, its meaning is to understand how html works and probably will be deleted later on.
