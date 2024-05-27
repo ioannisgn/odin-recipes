@@ -1,1 +1,1 @@
-This is the First and Last Initial Release of this Project just for the Odin Obligations, do not expect it to have multiple commints or a detailed structure, its meaning is to understand how html works and probably will be deleted later on.
+This is the First and Last Initial Release of this Project just for the Odin Obligations, do not expect it to have multiple commits or a detailed structure, its meaning is to understand how html works and probably will be deleted later on.
